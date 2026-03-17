@@ -99,3 +99,5 @@ There is a noticeable gap between time at company and promotions, indicating pot
 Salary varies significantly across roles, education levels, and departments
 
 Employee performance is influenced by a combination of experience, role, and satisfaction levels
+
+Here is the link to the dashboard - https://lookerstudio.google.com/u/0/reporting/f21954e5-d8fb-4f5e-88ad-70e37dd90f60/page/RE9rF/edit 
